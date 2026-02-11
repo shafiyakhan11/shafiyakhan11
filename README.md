@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<Python>👯 I’m looking to collaborate on<kaggle >🤝 I’m looking for help with<ML and Deep learning>🌱 I’m currently learning <AI and Data science >
+🔭 I’m currently working on Python <br>👯 I’m looking to collaborate on kaggle<br >🤝 I’m looking for help with ML and Deep learning<br>🌱 I’m currently learning AI and Data science <br>
 
 
 ## 🌐 Socials:
